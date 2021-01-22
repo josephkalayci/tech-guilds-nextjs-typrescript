@@ -1,0 +1,33 @@
+{
+  "name": "tech-guilds-nextjs-typrescript",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/lab": "latest",
+    "clsx": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "prop-types": "latest",
+    "react-scroll": "^1.8.1",
+    "react-slick": "^0.27.14",
+    "react-spring": "^8.0.27",
+    "react-transition-group": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/next": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-scroll": "^1.8.2",
+    "@types/react-slick": "^0.23.4",
+    "typescript": "latest"
+  }
+}
