@@ -53,7 +53,7 @@ const HeroSlide: React.FC<Props> = ({ heading, text, bgImage, button }) => {
   return (
     <div className={classes.root}>
       <Container maxWidth='md' className={classes.contentContainer}>
-        <Typography variant='h1' component='div'>
+        <Typography align='center' variant='h1' component='div'>
           {heading}
         </Typography>
         {text && (
