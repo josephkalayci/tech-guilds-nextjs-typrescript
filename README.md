@@ -2,7 +2,7 @@
 
 ### TechGuilds demo project (TypeScript version) [Visit live page](https://tech-guilds-nextjs-typrescript.vercel.app)
 
-[Javascript version](https://github.com/josephkalayci/tech-guilds-nextjs)
+Javascript version can be found from [here](https://github.com/josephkalayci/tech-guilds-nextjs)
 <br/>
 
 ## Getting Started
