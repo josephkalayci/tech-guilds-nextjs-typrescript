@@ -1,3 +1,10 @@
+# Joseph Y. Kalayci
+
+### TechGuilds demo project (TypeScript version) [Visit live page](https://tech-guilds-nextjs-typrescript.vercel.app)
+
+[Javascript version](https://github.com/josephkalayci/tech-guilds-nextjs)
+<br/>
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
